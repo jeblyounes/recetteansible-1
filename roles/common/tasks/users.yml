@@ -17,7 +17,7 @@
   authorized_key:
           user: itescia
           state: present
-          key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCjc0bzD0hkwd7MdQP59h6bTyxus5udNRrxVz2PXe1r8NyTVz7n25mG2Iop+Z0dKpfLTiDrV7pOwLLkyjOKGf8hq/wYl6btmSpJqPXPBiawGZZ1m7zqygHWkYjZnf2my7Y$'
+          key: ''
 
 - name: "Supression d'un utilisateur existant"
   user:
